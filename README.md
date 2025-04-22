@@ -1,4 +1,21 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Rough&pause=1000&color=F7AAF0&background=FFFFFF00&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Nadia)](https://git.io/typing-svg)
+
+🛠️ Currently working on personal projects to grow and improve
+
+---
+
+## 📊 My Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaDotti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🚀 Contacts
+
+- [Email](mailto:dottinadia@gmail.com)
+
+---
+
 
 <!--
 **NadiaDotti/NadiaDotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
