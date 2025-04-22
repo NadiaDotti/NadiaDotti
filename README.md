@@ -1,20 +1,18 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Rough&pause=1000&color=F7AAF0&background=FFFFFF00&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Nadia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=fe6e95&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Nadia)](https://git.io/typing-svg)
 
 🛠️ Currently working on personal projects to grow and improve
 
 ---
 
-## 📊 My Most Used Languages
+### 📊 My Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaDotti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaDotti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🚀 Contacts
+### 🚀 Contacts
 
 - [Email](mailto:dottinadia@gmail.com)
-
----
 
 
 <!--
