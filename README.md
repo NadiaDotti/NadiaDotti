@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=NadiaDotti&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaDotti&theme=dracula&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaDotti&theme=dracula&hide_border=false&layout=compact&hide=css)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadia_dotti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-dotti-849820259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dottinadiadev@gmail.com) 
